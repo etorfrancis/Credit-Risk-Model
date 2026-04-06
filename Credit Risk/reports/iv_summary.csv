@@ -1,0 +1,11 @@
+feature,IV,strength
+revolving_utilization,1.113440774230735,Suspicious
+past_due_30_59,0.43091272869476427,Strong
+age,0.25916868707574,Medium
+monthly_income,0.12698605572994218,Medium
+debt_ratio,0.0736658942875745,Weak
+open_credit_lines,0.06688932082824531,Weak
+dependents,0.024967760418919294,Weak
+real_estate_loans,0.012088881652202016,Useless
+times_90d_late,0.0,Useless
+past_due_60_89,0.0,Useless
